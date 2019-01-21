@@ -1,24 +1,21 @@
-# README
+# API Functionality
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+#### GET /products
+Will return a list of all products. If a parameter title of type string is included, will return the product with that name.
 
-* Ruby version
+#### GET /products/:id
+Will return the product associated with the given id.
 
-* System dependencies
+#### GET /products/:id/purchase
+Will attempt to purchase the product associated with the given id, returning the product with either a success or failure
+message based on whether their was enough inventory for the sale. Will decrement the inventory_count if the sale was successful.
 
-* Configuration
+#### GET /products/available
+Will return a list of all products that are available (have at least one item in inventory).
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### POST /products
+Will create a product, requires fields:
+* title - string
+* price - float 
+* inventory_count - int

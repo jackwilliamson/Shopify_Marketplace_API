@@ -2,80 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883a2ba7-934f-4084-8d7c-45c9b6f9703e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shopify_marketplace_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/update" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/credentials.yml.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/cors.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/spring.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/storage.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190120215321_create_products.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/products.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/product_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -95,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/product.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+            <state relative-caret-position="225">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -104,17 +34,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="128" selection-start-line="11" selection-start-column="128" selection-end-line="11" selection-end-column="128" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -134,8 +76,9 @@
       <list>
         <option value="$PROJECT_DIR$/db/migrate/20190120215321_create_products.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/app/controllers/products_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/product.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -323,12 +266,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548021145702</updated>
-      <workItem from="1548021146955" duration="6881000" />
+      <workItem from="1548021146955" duration="10952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6881000" />
+    <option name="totallyTimeSpent" value="10952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -380,32 +323,34 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="128" selection-start-line="11" selection-start-column="128" selection-end-line="11" selection-end-column="128" />
+          </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

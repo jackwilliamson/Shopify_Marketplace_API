@@ -5,5 +5,8 @@ Rails.application.routes.draw do
     collection do
       get "available"
     end
+    member do
+      get "purchase"
+    end
   end
 end
